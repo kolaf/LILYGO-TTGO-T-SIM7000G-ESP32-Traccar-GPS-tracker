@@ -2,7 +2,7 @@
  * Things you have to define fpr your setup
  */
 
-#define TINY_GSM_MODEM_SIM7600
+#define TINY_GSM_MODEM_SIM7000
 #define APN "YourAPN"
 #define GPRSUSER ""
 #define GPRSPASS ""
